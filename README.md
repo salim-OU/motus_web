@@ -21,7 +21,7 @@ Le jeu Motus est un jeu de mots où les joueurs doivent deviner un mot secret en
 - **Spring Boot 3.x**
 - **Spring Security** - Authentification JWT
 - **Spring Data JPA** - ORM
-- **H2/PostgreSQL** - Base de données
+- **H2/Mysql ** - Base de données
 - **Maven** - Gestion des dépendances
 - **Lombok** - Réduction du code boilerplate
 
